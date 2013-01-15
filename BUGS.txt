@@ -1,0 +1,17 @@
+Cover theron
+cover dom
+uncover dom
+follow dom
+light static mesh 90% dehors
+wretch leap
+mort certain mobs.
+pas bouger mob
+mort kryll par propane
+propane destruction applied track pas.
+matinée déclenche plus
+set walking marcus
+line of sight
+pas de light sur sol skylight
+
+
+cause damage ??
